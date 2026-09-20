@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Ayanleh Osman Houssein
 
 🎓 Étudiant en informatique à l'Université du Québec à Trois-Rivières (UQTR)  
-💻 Développeur Web Full-Stack Junior  
+💻 Développeur Web et Logiciel Full-Stack Junior  
 🔐 Développement Web & Cybersécurité Applicative | SOC en apprentissage
 
 ---
