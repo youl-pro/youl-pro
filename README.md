@@ -36,7 +36,7 @@ Je suis à la recherche d'un stage ou d'un poste en développement logiciel.
 
 ### 📺 Gestion de décodeurs
 Application full-stack avec interface administrateur.
-**Technologies :** React, Java Spring Boot
+**Technologies :** React, Bootstrap, Java Spring Boot
 
 ### 🗂️ [Tableau de bord de gestion de projets et de tâches](https://github.com/youl-pro/dashApi)
 Chaque utilisateur s'inscrit, se connecte, puis gère ses propres projets et ses tâches. Mots de passe hachés, notifications automatiques (patron Observateur). Authentification par jeton à venir.
