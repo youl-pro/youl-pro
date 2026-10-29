@@ -1,182 +1,68 @@
 # 👋 Bonjour, je suis Ayanleh Osman Houssein
 
-🎓 Étudiant en informatique à l'Université du Québec à Trois-Rivières (UQTR)  
-💻 Développeur Web et Logiciel Full-Stack Junior  
-🔐 Développement Web & Cybersécurité Applicative | SOC en apprentissage
-
----
+🎓 Étudiant en informatique à l'Université du Québec à Trois-Rivières (UQTR)
+💻 Développeur Web et Logiciel Full-Stack Junior
+🔐 Option cybersécurité
 
 ## 🚀 À propos de moi
 
-Je suis un étudiant en informatique à l'UQTR, orienté vers le développement d'applications web et la cybersécurité applicative.
+Étudiant en informatique, je développe des applications complètes avec Java (Spring Boot), C# (ASP.NET Core), React et PostgreSQL. J'ai aussi développé des sites web avec HTML, CSS, JavaScript, PHP, MySQL et WordPress.
 
-Je possède une expérience en développement full-stack avec JavaScript, PHP/MySQL et les technologies web modernes. Je développe des applications web performantes tout en m'intéressant aux bonnes pratiques de sécurité et à l'analyse des vulnérabilités.
+Mes centres d'intérêt :
 
-Mes centres d'intérêt incluent :
-- Le développement d'applications web sécurisées
-- La sécurité applicative (OWASP Top 10, VAPT)
-- L'analyse des vulnérabilités web
-- Les technologies SOC et la surveillance de sécurité (en apprentissage)
+- Le développement d'applications full-stack
+- La sécurité applicative (OWASP Top 10, analyse de vulnérabilités web)
+- Les bonnes pratiques de code et de conception
 
-Je suis actuellement à la recherche d'opportunités de **stage en développement web/cybersécurité** ainsi que de projets **freelance**.
-
----
+Je suis à la recherche d'un stage ou d'un poste en développement logiciel.
 
 ## 🛠️ Compétences techniques
 
-### 🌐 Développement Web
+**Langages :** Java, C#, JavaScript, PHP, SQL, HTML, CSS
 
-#### Front-end
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- React (base)
+**Back-end :** Spring Boot, ASP.NET Core (.NET), Entity Framework, PHP
 
-#### Back-end
-- PHP
-- MySQL
-- Java Spring Boot (en apprentissage)
+**Front-end :** React, Bootstrap, jQuery
 
----
+**Bases de données :** PostgreSQL, MySQL
 
-### 💻 Langages de programmation
+**CMS :** WordPress, WooCommerce
 
-- JavaScript
-- PHP
-- Java
-- C
-- C++
-- C#
-- Python
-- Programmation orientée objet (POO)
-- Algorithmique
-- Structures de données
+**Cybersécurité web :** OWASP Top 10 (bases), OWASP ZAP, analyse de vulnérabilités
 
----
+**Outils :** Git, GitHub, Visual Studio, Visual Studio Code
 
-### 📝 CMS & E-commerce
+## 📂 Projets
 
-- WordPress
-- WooCommerce
-- Création de sites vitrines
-- Création de boutiques en ligne
-- Gestion de produits et contenus
-
----
-
-### 🔐 Cybersécurité Web
-
-- OWASP Top 10 (bases)
-- OWASP ZAP
-- Scan automatisé de vulnérabilités web
-- Analyse des failles applicatives
-- Sécurité des applications web
-- Concepts SOC (en apprentissage)
-- VAPT (bases)
-
----
-
-### 🧰 Outils
-
-- Git
-- GitHub
-- Visual Studio Code
-- WordPress
-- OWASP ZAP
-
----
-
-# 📂 Projets
-
-## 🛒 CrackPhone - Boutique e-commerce WordPress / WooCommerce
-
-Boutique en ligne spécialisée dans les accessoires de téléphones.
-
-Fonctionnalités :
-- Gestion des produits
-- Gestion des commandes
-- Optimisation de l'expérience utilisateur
-- Personnalisation d'un site e-commerce
-
-**Technologies :**
-
-WordPress • WooCommerce
-
----
-
-## 💈 Site vitrine WordPress - Salon de barbier
-
-Création d'un site vitrine pour un salon de barbier à Trois-Rivières.
-
-Fonctionnalités :
-- Présentation des services
-- Informations de contact
-- Interface adaptée aux utilisateurs
-
-**Technologies :**
-
-WordPress
-
----
-
-## ✈️ Site Agence de Voyage
-
-Création d'un site web front-end statique responsive.
-
-**Technologies :**
-
-HTML • CSS • JavaScript
-
----
-
-## 🎬 Films & Acteurs
-
-Application web interactive avec animations et contenu dynamique.
-
-**Technologies :**
-
-JavaScript • jQuery
-
----
-
-## 🍔 Burger Code
-
-Application web CRUD de gestion de menus et commandes.
-
-Fonctionnalités :
-- Ajout, modification et suppression de données
-- Gestion des informations avec une base de données
-
-**Technologies :**
-
-HTML • CSS • JavaScript • PHP • MySQL
-
----
-
-## 📺 Gestion de décodeurs (Projet en cours)
-
+### 📺 Gestion de décodeurs
 Application full-stack avec interface administrateur.
+**Technologies :** React, Java Spring Boot
 
-**Technologies :**
+### 🗂️ [Tableau de bord de gestion de projets et de tâches](https://github.com/youl-pro/dashApi)
+Chaque utilisateur s'inscrit, se connecte, puis gère ses propres projets et ses tâches. Mots de passe hachés, notifications automatiques (patron Observateur). Authentification par jeton à venir.
+**Technologies :** ASP.NET Core, PostgreSQL, React
 
-React • Java Spring Boot
+### 📝 [Suivi de candidatures de stage](https://github.com/youl-pro/SuiviStages)
+Application de suivi de candidatures (en cours de développement).
+**Technologies :** ASP.NET Core, PostgreSQL, React
 
----
+### 🍔 [Burger Code](https://github.com/youl-pro/burger-code)
+Application web CRUD de gestion de menus et de commandes.
+**Technologies :** HTML, CSS, JavaScript, PHP, MySQL, Bootstrap
 
-# 🎯 Objectifs
+### 🎬 [Films & Acteurs](https://github.com/youl-pro/projet-films-acteurs)
+Application web interactive avec animations et contenu dynamique.
+**Technologies :** JavaScript, jQuery
 
-- Développer des applications web modernes et sécurisées
-- Approfondir mes compétences en cybersécurité applicative
-- Continuer mon apprentissage des technologies Full-Stack
-- Participer à des projets professionnels en stage ou en freelance
+### 🛒 [CrackPhone](https://github.com/youl-pro/crackphone-woocommerce)
+Boutique en ligne d'accessoires de téléphones.
+**Technologies :** WordPress, WooCommerce
 
----
+Autres sites : site vitrine WordPress pour un salon de barbier à Trois-Rivières, site statique responsive d'agence de voyage (HTML, CSS, JavaScript).
 
-# 📫 Me contacter
+## 📫 Me contacter
 
-💼 LinkedIn : https://www.linkedin.com/feed/
-
-📧 Email : ayanleh.osman.houssein@uqtr.ca
-
-📍 Trois-Rivières, Québec, Canada
+- 🌐 Portfolio : https://youl-pro.github.io/ayanleh-osman.github.io/
+- 💼 LinkedIn : https://ca.linkedin.com/in/ayanleh-osman-55b7b939b
+- 📧 Courriel : ayanleh.osman.houssein@uqtr.ca
+- 📍 Trois-Rivières, Québec, Canada
